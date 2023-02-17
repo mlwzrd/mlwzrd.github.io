@@ -1,2 +1,2 @@
 # mlwzrd.github.io
-Website to showcase past projects and other things
+Website to showcase past projects and other things.
