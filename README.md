@@ -1,4 +1,4 @@
-# [mlwzrd.github.io](mlwzrd.github.io)
+# [mlwzrd.github.io](https://mlwzrd.github.io)
 Website to showcase past projects and other things.
 
 # Dependencies
