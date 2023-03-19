@@ -68,8 +68,13 @@ nav ul li a {
 
 .bibbase_paper {
   margin-bottom: 1em;
-  margin-left: 10px;
+  margin-left: 20px;
+  margin-top: 1em
   /* text-indent: 1em; */
+}
+
+.bibbase_paper_title a {
+  color: #90ee90 !important;
 }
     
 nav a {
@@ -79,6 +84,7 @@ nav a {
 }
 .container a {
   color: #90ee90;
+  text-decoration: none;
 }
 
 main {
