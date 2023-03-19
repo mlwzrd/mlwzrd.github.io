@@ -52,6 +52,7 @@ nav ul li a {
   margin-top: 20px; /* add space above the year title */
   margin-bottom: 10px; /* add space below the year title */
   margin-left: 10px; /* add left indent */
+  margin-right: 10px; /* add right indent */
   padding-left: 10px; /* add additional left padding */
   /* border-left: 2px solid #ccc; add a border on the left */
 }
