@@ -30,11 +30,16 @@ header {
   overflow: hidden; /* this is important to hide parts of the image outside the container */
 }
 
-img {
+.image-kiko {
+  object-position: 30% 30% !important;
+}
+
+.image-container img {
   width: 100%;
   height: 100%;
+  object-position: top;
   object-fit: cover; /* this will fill the container while preserving aspect ratio */
-  object-position: top; /* this will position the top of the image in the container */
+   /* this will position the top of the image in the container */
 }
 
 nav {
